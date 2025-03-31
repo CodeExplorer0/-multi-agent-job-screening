@@ -1,0 +1,6 @@
+ollama
+pymupdf
+pandas
+numpy
+scikit-learn
+Flask
